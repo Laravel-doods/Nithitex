@@ -1,0 +1,15 @@
+.bgcolor{
+    background-color: #ffffff !important;
+}
+
+.brand-align{
+    margin-left: 60px !important;
+}
+
+.alignment{
+    text-align: right;
+}
+
+input#file-upload-button{
+    margin-top: 0px !important;
+  }
